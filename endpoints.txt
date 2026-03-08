@@ -1631,5 +1631,3 @@ xmlrpc.php
 .X-PCONF
 .x-pconf_var_de
 .X-PCONF_var_DE
-
-
